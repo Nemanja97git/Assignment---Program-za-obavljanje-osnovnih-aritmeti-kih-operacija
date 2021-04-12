@@ -1,0 +1,78 @@
+body {
+
+    
+height:448px;
+  width:400px;
+  color: white;
+background-color:#66a3ff;
+ 
+background-image: repeating-linear-gradient(transparent, transparent 50px, purple 50px, purple 53px, transparent 53px, transparent 63px, purple 63px, purple 66px, transparent 66px, transparent 116px, rgba(0,0,0,.5) 116px, rgba(0,0,0,.5) 166px, rgba(255,255,255,.2) 166px, rgba(255,255,255,.2) 169px, rgba(0,0,0,.5) 169px, rgba(0,0,0,.5) 179px, rgba(255,255,255,.2) 179px, rgba(255,255,255,.2) 182px, rgba(0,0,0,.5) 182px, rgba(0,0,0,.5) 232px, transparent 232px),  
+  repeating-linear-gradient(270deg, transparent, transparent 50px, purple 50px, purple 53px, transparent 53px, transparent 63px, purple 63px, purple 66px, transparent 66px, transparent 116px, rgba(0,0,0,.5) 116px, rgba(0,0,0,.5) 166px, rgba(255,255,255,.2) 166px, rgba(255,255,255,.2) 169px, rgba(0,0,0,.5) 169px, rgba(0,0,0,.5) 179px, rgba(255,255,255,.2) 179px, rgba(255,255,255,.2) 182px, rgba(0,0,0,.5) 182px, rgba(0,0,0,.5) 232px, transparent 232px);
+
+
+    }
+     #container{
+        position:absolute;
+        top: 32%;
+        left: 15%;
+        border-radius: 20px;
+        padding: 20px;
+        padding-right: 20px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 17px;
+    }
+    
+    [type="text"] {
+        width: 200px;
+        height: 40px;
+        font-size: 21px;
+        border-radius: 20px;
+        padding-left: 20px;
+        border: 2px solid black;
+        
+    
+       
+    }
+    
+    [type="text"]:hover{
+        cursor: pointer;
+       
+    }
+    
+    select,[type="button"]{
+        width: 52px;
+        height: 28px;
+        padding-left: 8px;
+        font-size: 25px;
+        border-radius: 20px;
+        border: 2px solid black;
+        margin-left: 10px;
+        margin-right: 10px;
+       
+    
+      
+    }
+   
+    select,[type="button"]:hover{
+        cursor: pointer;
+    } 
+    
+    }
+    output{
+        color: red;
+        font-size: 30px;
+        margin-left: 2px;
+        border: 2px solid black;
+        border-radius: 20px;
+        background-color:rgba(255,255,255,.2;
+        padding-left: 15px;
+        padding-right: 13px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        
+        
+    
+    }
+
+  
+
+    
